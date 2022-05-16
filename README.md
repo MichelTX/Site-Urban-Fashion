@@ -4,7 +4,7 @@
 <p>Site criado utilizando HTML e CSS.</p>
 
 
-Tutorial disponível em:https://www.youtube.com/watch?v=qXXknB5bePU&list=PLitjP-VKSUvznwr9XILZE8PT4HKuFeTCb&index=1&t=27s
+Tutorial disponível em:https://www.youtube.com/watch?v=qXXknB5bePU&list=PLitjP-VKSUvznwr9XILZE8PT4HKuFeTCb&index=1&t=27s<br>
 
 
 
