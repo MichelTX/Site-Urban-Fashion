@@ -1,13 +1,13 @@
 <h1>Site-Urban-Fashion</h1>
 
 
-<p>Site criado utilizando HTML e CSS.</p>
+>Site criado utilizando HTML e CSS.
 
 
-Tutorial disponível em:
-```
+>Tutorial disponível em:
+
 https://www.youtube.com/watch?v=qXXknB5bePU&list=PLitjP-VKSUvznwr9XILZE8PT4HKuFeTCb&index=1&t=27s
-```
+
 
 ________________________________________________________________________________________________________________________
 
